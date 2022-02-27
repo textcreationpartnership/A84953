@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and exact relation of the storming and taking of Dartmouth, vvith above five hundred prisoners, sixty peece of ordnance, great store of ammunition and ships belonging to the said town. As it was sent to the Honorable William Lenthal Esq; Speaker to the Honorable House of Commons. Together with an order of both Houses of Parliament, for Thursday come fortnight to be a day of thanksgiving within the lines of communication, and ten miles about; and Thursday come three weeks in all other places in the countrey. Ordered by the Commons assembled in Parliament, that this relation and order be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84953</idno>
+            <idno type="STC">Wing F2279</idno>
+            <idno type="STC">Thomason E317_14</idno>
+            <idno type="STC">ESTC R200543</idno>
+            <idno type="EEBO-CITATION">99861260</idno>
+            <idno type="PROQUEST">99861260</idno>
+            <idno type="VID">113391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113391)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E317[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and exact relation of the storming and taking of Dartmouth, vvith above five hundred prisoners, sixty peece of ordnance, great store of ammunition and ships belonging to the said town. As it was sent to the Honorable William Lenthal Esq; Speaker to the Honorable House of Commons. Together with an order of both Houses of Parliament, for Thursday come fortnight to be a day of thanksgiving within the lines of communication, and ten miles about; and Thursday come three weeks in all other places in the countrey. Ordered by the Commons assembled in Parliament, that this relation and order be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honourable House of Commons, and are to be sold at his shop at the sign of the Golden Dragon in Fleetstreet, neer the Inner-Temple,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>January 23. 1645 [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has 1644[5] publication year; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dartmouth (Devon, England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113391:1" rendition="simple:additions"/>
+            <p>A Full and Exact RELATION Of the Storming and Taking of Dartmouth, VVith above Five hundred Pri<g ref="char:EOLhyphen"/>ſoners, Sixty peece of Ordnance, great ſtore of Ammunition and Ships belong<g ref="char:EOLhyphen"/>ing to the ſaid TOWN.</p>
+            <p>As it was ſent to the Honorable <hi>William Lenthal</hi> Eſq; Speaker to the Honorable Houſe of Commons.</p>
+            <p>Together with an <hi>Order</hi> of both Houſes of Parliament, for Thurſday come Fortnight to be a day of Thankſgiving within the Lines of Com<g ref="char:EOLhyphen"/>munication, and ten miles about; and Thurſday come three weeks in all other places in the Countrey.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That this <hi>Relation</hi> and <hi>Order</hi> be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Edw. Husband,</hi> Printer to the Honorable Houſe of Commons, and are to be ſold at his Shop at the Sign of the Golden Dragon in Fleetſtreet, neer the Inner-Temple, <hi>January.</hi> 23. 1645.</p>
+            <pb facs="tcp:113391:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:113391:2"/>
+            <head>To the Honorable <hi>VVilliam Lenthal</hi> Eſq; Speaker of the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF I write confuſedly, I ſhall humbly crave your pardon; for we have been up all night, and things are not yet in a ſet<g ref="char:EOLhyphen"/>led order: In my former Letters I ac<g ref="char:EOLhyphen"/>quainted you how the army was engaged before <hi>Dartmouth</hi> (a place of as great, if not greater concernment then <hi>Exeter</hi>) it required ſome few dayes time to bee throughly informed of the ſtate of the town; after which, it was unanimouſly re<g ref="char:EOLhyphen"/>ſolved to ſtorm the town (for we finde more loſſe of men by lingring ſieges, then ſudden ſtorms) every Commander was allotted to his poſt, and they as faithfully
+<pb n="4" facs="tcp:113391:3"/> and valiantly performed their duties; eve<g ref="char:EOLhyphen"/>ry man gaining the command of every Fort or place that fel to his lot, with all the Ordnance, Arms and Ammunition: The ſtorm begun about one a clock this mor<g ref="char:EOLhyphen"/>ning; after the Enemy had diſcharged their Canon once, our men got under the ſhot, and poſſeſſed the Canon, and turned them againſt the Enemy (for we had no pieces at all of our own, the weather not admitting any to be brought) after the Line was cleared, and ſome works taken, we became Maſters of the whole Town, and then of <hi>Tunſtal</hi> Mount and Church, Mount <hi>Boon,</hi> Mount <hi>Paradiſe,</hi> and the old Caſtle, in which caſtle were five great Iron Guns, which command the River. In the ſtorm our men poſſeſſed themſelvs of about ſixty piece of Ordnance, the two great Forts not yet taken (being a mile from the Town) for theſe two Forts, if
+<pb n="5" facs="tcp:113391:3"/> they accept not of quarter vvhile they may have it, in the opinion of the General and Lieut. General, and Commanders, wee may reduce them by force in forty eight hours, &amp; batter them in pieces with their own great Guns, which we have ta<g ref="char:EOLhyphen"/>ken in Town, one whereof is a braſſe De<g ref="char:EOLhyphen"/>my canon; Truly I never ſee men fall on more cheerfully and merrily; Mr. <hi>Dell,</hi> and Mr. <hi>Peters</hi> preached to them, &amp; put much life into them, and God was won<g ref="char:EOLhyphen"/>derfull mercifull unto us, for we had but one man ſlain, and but few wounded, though the Forts plaid moſt fiercely on the Soldiers; the Commanders &amp; Forces that were engaged in the ſtorm, were, <hi>Col: Hamond</hi> and his Regiment, <hi>Col: Lambert</hi> and his Regiment, <hi>Col: Forteſcue</hi> and his Regiment, <hi>Lieut. Col: Pride</hi> with <hi>Col: Har<g ref="char:EOLhyphen"/>leys</hi> Regiment, and a good party out of the Generals, &amp; <hi>Col: Ingolsbies</hi> Regiments,
+<pb n="6" facs="tcp:113391:4"/> and laſtly, two hundred Seamen, &amp; ſome Dragoons. And though the Town was entred thus by ſtorm, yet very little pre<g ref="char:EOLhyphen"/>judice was done to the town, the Soldiers being fair conditioned beyond expecta<g ref="char:EOLhyphen"/>tion, they grumbled a little that they had not the Reward promiſed at <hi>Briſtol,</hi> to ſave that town from plundering, which City deſerves to feel the ſmart of plun<g ref="char:EOLhyphen"/>der, for their unthankfulneſſe for ſo great favours they found from the Army. The Meſſenger is in haſte to be gone; and for further particulars the Houſe will ſud<g ref="char:EOLhyphen"/>denly receive an account. It hath pleaſed God wonderfully to bleſſe the Army in this Expedition further VVeſt, not onely to ſcatter the Enemies Horſe, but to hin<g ref="char:EOLhyphen"/>der the relief intended for <hi>Exeter;</hi> and in<g ref="char:EOLhyphen"/>terrupted, nay quite broke the yong <hi>Ge<g ref="char:EOLhyphen"/>neraliſſimo</hi> in his new leavies, relieved <hi>Plymouth,</hi> and inforced the Enemy into
+<pb n="7" facs="tcp:113391:4"/> 
+               <hi>Cornwall,</hi> leaving a force ſufficient to be<g ref="char:EOLhyphen"/>ſiege <hi>Exeter:</hi> If the Army had formerly advanced, leaving that City unbeſieged, as it was much deſired, I think the ſervice would not have been of ſo much advan<g ref="char:EOLhyphen"/>tage, as to take this ſeaſon; whileſt you have Commanders that are faithfull, if you let them put Deſignes in execution, when their own Conſciences and Iudge<g ref="char:EOLhyphen"/>ments leads them to it, I hope you will have no cauſe to repent it: But it is hard to pleaſe all.</p>
+            <p>IUſt now the Enemy beats a Parley in the Forts, ſo you may be aſſured we may have them on any terms; The Generall ſent the Comptroller to Summon the two men of War in the River, who yielded immediately, the one was one Captain <hi>Johnſons</hi> Ship of <hi>Newcaſtle,</hi> ten piece of Ordnance; the other of fourteen piece of Ordnance: at <hi>Townſall</hi> Fort we took ſix ſcore priſoners, about four hun<g ref="char:EOLhyphen"/>dred more in the Town and other Works. I humbly take my leave, and remain Your moſt humble Servant, <hi>J. R.</hi>
+            </p>
+            <closer>
+               <dateline>Dartmouth, <date>Ian. 19. 1645. four in the morning.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>The Meſſenger is a diligent man, and willing to come, I leave him to your conſideration.</p>
+            </postscript>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="8" facs="tcp:113391:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 22 Januarii, 1645.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, do Order and ap<g ref="char:EOLhyphen"/>point this day Fortnight for a day of Thankſgiving for taking in of <hi>Dart<g ref="char:EOLhyphen"/>mouth,</hi> to be kept within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> Lines of Com<g ref="char:EOLhyphen"/>munication, and Ten miles about, And this day three weeks for all other places in the Countrey.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Joh. Brown, Cleric. Parliamentorum.</item>
+                     <item>H. Elſynge, Cler. Parl. D. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
